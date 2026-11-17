@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "id": "entradas",
+      "name": "🥗 Entradas",
+      "emoji": "🥗"
+    },
+    {
+      "id": "principales",
+      "name": "🍽️ Platos Principales",
+      "emoji": "🍽️"
+    },
+    {
+      "id": "pizzas",
+      "name": "🍕 Pizzas",
+      "emoji": "🍕"
+    },
+    {
+      "id": "hamburguesas",
+      "name": "🍔 Hamburguesas",
+      "emoji": "🍔"
+    },
+    {
+      "id": "bebidas",
+      "name": "🥤 Bebidas",
+      "emoji": "🥤"
+    },
+    {
+      "id": "postres",
+      "name": "🍰 Postres",
+      "emoji": "🍰"
+    }
+  ],
+  "products": [
+    {
+      "id": "ent-01",
+      "category": "entradas",
+      "name": "Ensalada César",
+      "description": "Lechuga romana, crutones, queso parmesano y aderezo César casero",
+      "price": 18000,
+      "available": true,
+      "tags": ["ensalada", "vegetariano"]
+    },
+    {
+      "id": "ent-02",
+      "category": "entradas",
+      "name": "Alitas BBQ",
+      "description": "8 alitas de pollo con salsa BBQ casera y vegetales frescos",
+      "price": 28000,
+      "available": true,
+      "tags": ["pollo", "picante"]
+    },
+    {
+      "id": "ent-03",
+      "category": "entradas",
+      "name": "Tabla de Quesos",
+      "description": "Selección de quesos nacionales con mermelada y tostadas",
+      "price": 35000,
+      "available": true,
+      "tags": ["queso", "vegetariano"]
+    },
+    {
+      "id": "pri-01",
+      "category": "principales",
+      "name": "Bandeja Paisa",
+      "description": "Frijoles, chicharrón, carne molida, arroz, aguacate, platano maduro, huevo y arepa",
+      "price": 38000,
+      "available": true,
+      "tags": ["colombiano", "completo"]
+    },
+    {
+      "id": "pri-02",
+      "category": "principales",
+      "name": "Lomo al Trapo",
+      "description": "500g de lomo de res a la brasa con papas criollas y ensalada",
+      "price": 65000,
+      "available": true,
+      "tags": ["carne", "brasa"]
+    },
+    {
+      "id": "pri-03",
+      "category": "principales",
+      "name": "Pollo a la Plancha",
+      "description": "Pechuga de pollo a la plancha con arroz, ensalada y patacones",
+      "price": 32000,
+      "available": true,
+      "tags": ["pollo", "saludable"]
+    },
+    {
+      "id": "piz-01",
+      "category": "pizzas",
+      "name": "Pizza Margarita",
+      "description": "Salsa de tomate, mozzarella fresca y albahaca. Tamaño grande (8 porciones)",
+      "price": 42000,
+      "available": true,
+      "tags": ["pizza", "vegetariano", "clásica"]
+    },
+    {
+      "id": "piz-02",
+      "category": "pizzas",
+      "name": "Pizza Pepperoni",
+      "description": "Salsa de tomate, mozzarella y pepperoni. Tamaño grande (8 porciones)",
+      "price": 48000,
+      "available": true,
+      "tags": ["pizza", "pepperoni"]
+    },
+    {
+      "id": "piz-03",
+      "category": "pizzas",
+      "name": "Pizza 4 Quesos",
+      "description": "Mozzarella, cheddar, parmesano y queso azul. Tamaño grande (8 porciones)",
+      "price": 52000,
+      "available": true,
+      "tags": ["pizza", "queso", "vegetariano"]
+    },
+    {
+      "id": "ham-01",
+      "category": "hamburguesas",
+      "name": "Hamburgesa Clásica",
+      "description": "Carne 180g, lechuga, tomate, cebolla, pepinillos y salsa de la casa",
+      "price": 25000,
+      "available": true,
+      "tags": ["hamburguesa", "carne"]
+    },
+    {
+      "id": "ham-02",
+      "category": "hamburguesas",
+      "name": "Hamburguesa Doble",
+      "description": "Doble carne 360g, doble queso cheddar, bacon y salsa especial",
+      "price": 38000,
+      "available": true,
+      "tags": ["hamburguesa", "carne", "doble"]
+    },
+    {
+      "id": "ham-03",
+      "category": "hamburguesas",
+      "name": "Hamburguesa Vegetariana",
+      "description": "Medallón de garbanzos, aguacate, tomate, lechuga y salsa de yogurt",
+      "price": 28000,
+      "available": true,
+      "tags": ["hamburguesa", "vegetariano"]
+    },
+    {
+      "id": "beb-01",
+      "category": "bebidas",
+      "name": "Limonada de Coco",
+      "description": "Limonada natural con crema de coco. 500ml",
+      "price": 12000,
+      "available": true,
+      "tags": ["bebida", "frío", "sin alcohol"]
+    },
+    {
+      "id": "beb-02",
+      "category": "bebidas",
+      "name": "Jugo Natural",
+      "description": "Mango, mora, lulo, guanábana o maracuyá. 400ml",
+      "price": 10000,
+      "available": true,
+      "tags": ["bebida", "frío", "fruta", "sin alcohol"]
+    },
+    {
+      "id": "beb-03",
+      "category": "bebidas",
+      "name": "Cerveza",
+      "description": "Poker, Club Colombia o Águila. 330ml",
+      "price": 8000,
+      "available": true,
+      "tags": ["bebida", "alcohol"]
+    },
+    {
+      "id": "beb-04",
+      "category": "bebidas",
+      "name": "Gaseosa",
+      "description": "Coca-Cola, Pepsi o Sprite. 400ml",
+      "price": 5000,
+      "available": true,
+      "tags": ["bebida", "frío"]
+    },
+    {
+      "id": "pos-01",
+      "category": "postres",
+      "name": "Tiramisú",
+      "description": "Clásico tiramisú italiano con bizcochuelo y mascarpone",
+      "price": 18000,
+      "available": true,
+      "tags": ["postre", "italiano"]
+    },
+    {
+      "id": "pos-02",
+      "category": "postres",
+      "name": "Brownie con Helado",
+      "description": "Brownie de chocolate caliente con bola de helado de vainilla",
+      "price": 16000,
+      "available": true,
+      "tags": ["postre", "chocolate"]
+    },
+    {
+      "id": "pos-03",
+      "category": "postres",
+      "name": "Tres Leches",
+      "description": "Bizcocho bañado en tres leches con crema chantilly",
+      "price": 15000,
+      "available": true,
+      "tags": ["postre", "colombiano"]
+    }
+  ]
+}
